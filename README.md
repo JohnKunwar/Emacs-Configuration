@@ -1,2 +1,4 @@
 # Emacs-Configuration
-My emacs configuration
+
+# About Customfile.el
+It have my theme setup to doom-gruvbox
